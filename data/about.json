@@ -1,0 +1,34 @@
+{
+ "region": "강원 원주시 흥업면",
+ "nameEn": "Halla University",
+ "added": "2026-10-27T21:00",
+ "rank": 257,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KANGWON-WONJU",
+   "campus": "강원대학교 원주캠퍼스",
+   "km": 1.3
+  },
+  {
+   "code": "YONSEI-MIRAE",
+   "campus": "연세대학교 미래캠퍼스",
+   "km": 2.6
+  },
+  {
+   "code": "YONSEI-WMED",
+   "campus": "연세대학교 원주의과대학",
+   "km": 6.1
+  },
+  {
+   "code": "SANGJI",
+   "campus": "상지대학교",
+   "km": 7.6
+  },
+  {
+   "code": "KDU-WONJU",
+   "campus": "경동대학교 메디컬캠퍼스",
+   "km": 10.9
+  }
+ ]
+}
